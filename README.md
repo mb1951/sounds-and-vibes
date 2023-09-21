@@ -21,6 +21,20 @@
     <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- shape of you</p>
     <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- hearbeat</p>
     <img src="https://i.pinimg.com/564x/c6/28/2e/c6282e94f191a6514124ec0843c6d7ce.jpg" weight="400px" height="700px"/>
+    <h2 style="text-align:center;font-family:sans-serif;font-size:25px;color:#8A2BE2">a selection of calm and slightly sad music<img src="https://png.pngtree.com/png-clipart/20210128/ourmid/pngtree-sad-emoticon-png-image_2802230.jpg" height="40px"/>:</h2> 
+    <p style="font-family:sans-serif;font-size:20px;color:#FF00FF">- the neighbourhood-a little death</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#FF00FF">- the neighbourhood-a little death</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#FF00FF">- the neighbourhood-the beach</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#FF00FF">- the neighbourhood-sweater weather</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- kaleo-way down we go</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- lana del rey-say yes to heaven</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- hozier-take me to church</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#0000FF">- lp-muddy waters</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#0000FF">- lp-other people</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#0000FF">- lp-lost on you</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- liana flores - rises the moon</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#6A5ACD">- billie eilish-hotline bling (drake cover)</p>
+    <p style="font-family:sans-serif;font-size:20px;color:#6A5ACD">- billie eilish-everything i wanted</p>
     </main>
         </body>
     </html>
