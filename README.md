@@ -3,7 +3,7 @@
     <title>selection of music</title>
     <body style="background-color:#000000">
     <header>
-    <img src="https://img.freepik.com/premium-photo/fashion-hipster-woman-smiles-and-wear-headphones-listening-to-music-over-color-neon-background-at-the-studio_179369-535.jpg?size=626&ext=jpg&uid=R100390018&ga=GA1.2.1997689551.1695279447" height="700px"/>
+    <img src="https://img.freepik.com/premium-photo/fashion-hipster-woman-smiles-and-wear-headphones-listening-to-music-over-color-neon-background-at-the-studio_179369-535.jpg?size=626&ext=jpg&uid=R100390018&ga=GA1.2.1997689551.1695279447" weight="400px" height="700px"/>
     <h1 style="font-family:sans-serif;text-align:center;color:#B0C4DE">SOUNDS AND VIBES</h1>
     <p style="font-family:sans-serif;font-size:25px;text-align:center; color:#DCDCDC">Our website will publish: selections of songs according to your taste, calm or rocking music, and much more.</p>
     </header>
@@ -20,7 +20,7 @@
     <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- adam lambert-my heart is like a ghost town</p>
     <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- shape of you</p>
     <p style="font-family:sans-serif;font-size:20px;color:#F5F5F5">- hearbeat</p>
-    <img src="https://img.freepik.com/premium-photo/model-woman-neont-lights-posing-studio-night-club-portrait-beautiful-sexy-girl-with-trendy-make-up_179369-533.jpg?w=740" height="700px"/>
+    <img src="https://img.freepik.com/premium-photo/model-woman-neont-lights-posing-studio-night-club-portrait-beautiful-sexy-girl-with-trendy-make-up_179369-533.jpg?w=740" weight="400px" height="700px"/>
     </main>
         </body>
     </html>
