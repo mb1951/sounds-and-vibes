@@ -44,7 +44,7 @@
     <img src="https://img.freepik.com/premium-photo/happy-young-woman-wearing-hoodie-using-smartphone-neon-lights-girl-surfing-internet-phone-pink-neon-light_179369-704.jpg?w=740" height="650px"/>
     </main>
     <footer>
-    <a href="https://www.youtube.com/watch?v=aN_NNJE_bE8">even more music here!</a>    
+    <a href="https://youtu.be/EdxSS-1c-cU?si=aoyDOPDLFNhk0NaG">even more music here!</a>    
     </footer>
         </body>
     </html>
